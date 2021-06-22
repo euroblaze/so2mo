@@ -5,3 +5,4 @@
 - If there are BTO products (Inventory route "Manufacture") in the SaleOrder, a separate MO is created for that product, according to the standard Odoo process.  Source is set to SO#.
 
 The MO is left in an un-validated state. 
+BTO = Built to Order
